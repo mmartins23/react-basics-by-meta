@@ -1,4 +1,4 @@
-# React.js overview
+# React JS Overview
 
 In summary, React is a JavaScript library designed for building single-page applications (SPAs), which are websites where content changes dynamically without full page reloads. SPAs offer efficiency by loading only the necessary content based on user interactions, making them ideal for businesses requiring rich user interfaces, speed, scalability, and flexibility.
 
